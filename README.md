@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+This is a sovereign engineering test ground, developing ontop of Nostr, Lightning, Ecash & Bitcoin.
+
+### Cypher
+
+The first exploration is in providing ecommerce tooling
+
+You can find a more detailed build and start guide here:
+
+[Starter Guide](https://github.com/sovbiz/cypher-guide/README.md)
+
+
+You can follow me / project updates here:
+
+[Sync](nostr:npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6)
+
+[SovBiz](nostr:npub1s0v8lzxhgzrcp039pqw5fwt99grhnh0hdl7atcyxl4lkpkxy076smu0xev)
+
+
+
+
+
 <!--
 **sovbiz/sovbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
