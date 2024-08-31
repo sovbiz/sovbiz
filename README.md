@@ -13,9 +13,9 @@ You can find a more detailed build and start guide here:
 
 You can follow me / project updates here:
 
-[Sync](nostr:npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6)
+Sync: npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6
 
-[SovBiz](nostr:npub1s0v8lzxhgzrcp039pqw5fwt99grhnh0hdl7atcyxl4lkpkxy076smu0xev)
+SovBiz: npub1s0v8lzxhgzrcp039pqw5fwt99grhnh0hdl7atcyxl4lkpkxy076smu0xev
 
 
 
