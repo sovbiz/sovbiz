@@ -8,7 +8,7 @@ The first exploration is in providing ecommerce tooling
 
 You can find a more detailed build and start guide here:
 
-[Starter Guide](https://github.com/sovbiz/cypher-guide/README.md)
+[Starter Guide](https://github.com/sovbiz/Cypher-Guide/blob/main/README.md)
 
 
 You can follow me / project updates here:
